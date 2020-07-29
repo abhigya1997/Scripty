@@ -58,7 +58,7 @@
                 android:layout_marginBottom="5sp"
                 android:layout_marginLeft="2sp"
                 android:layout_marginRight="5sp"
-                android:background="@drawable/gujr"
+                android:background="@drawable/modi"
                 android:layout_marginTop="0sp"
                 />
             <ImageButton
