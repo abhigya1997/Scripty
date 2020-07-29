@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
@@ -78,6 +78,13 @@
             android:layout_width="match_parent"
             android:layout_weight="1"
             android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/btn5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/devanagari" />
         </LinearLayout>
         <LinearLayout
             android:layout_height="0dp"

@@ -10,7 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity"></activity>
-        <activity android:name=".content" />
+        <activity android:name=".gujarati" />
+        <activity android:name=".punjabi" />
+        <activity android:name=".marathi" />
+        <activity android:name=".hindi" />
+        <activity android:name=".devanagari" />
         <activity android:name=".welcome">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
